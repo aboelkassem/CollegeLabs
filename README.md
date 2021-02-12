@@ -39,3 +39,15 @@ including my laps that i had studied at college for some courses containing PDF 
 * <a href="https://github.com/aboelkassem/CollegeLabs/blob/master/DHF%20SE%20Project/DHF_Sequence%20Diagram.pdf">Sequence Diagram</a>
 * <a href="https://github.com/aboelkassem/CollegeLabs/blob/master/DHF%20SE%20Project/DHF_Use%20case%20diagram.pdf">Use Case Diagram</a>
 * <a href="https://github.com/aboelkassem/CollegeLabs/blob/master/DHF%20SE%20Project/DHF_Use%20Cases%20Document.docx">Use Case Document</a>
+
+
+<hr/>
+
+## ![Soft Computation Project](https://github.com/aboelkassem/PSO)
+#### ![CS432 - Soft Computation](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS432%20-%20Soft%20Computation)
+
+
+<hr/>
+
+## ![Image Processing Project](https://github.com/aboelkassem/Filtrawy)
+#### ![CS391 - Software Engineering](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS352%20-%20Image%20Processing)
