@@ -1,0 +1,4 @@
+1- Sort all the processes according to their arrival time.
+2- Select the process with minimum arrival time as well as minimum burst time.
+3- After completion of the process, select from the ready queue the process which has the minimum burst time.
+4- Repeat above processes until all processes have finished their execution.
