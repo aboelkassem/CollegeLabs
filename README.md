@@ -31,7 +31,7 @@ including my laps that i had studied at college for some courses containing PDF 
 
 <hr/>
 
-## ![Software Engineering Project](https://github.com/aboelkassem/CollegeLabs/tree/master/DHF%20SE%20Project)
+## ![DHF (Daily Healthy Food) Project](https://github.com/aboelkassem/CollegeLabs/tree/master/DHF%20SE%20Project)
 #### ![CS391 - Software Engineering](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS391%20-%20Software%20Engineering)
 #### Including:
 * <a href="https://github.com/aboelkassem/CollegeLabs/blob/master/DHF%20SE%20Project/DHF_Requirements%20Gathering.docx">Requirements Gathering</a>
@@ -43,11 +43,27 @@ including my laps that i had studied at college for some courses containing PDF 
 
 <hr/>
 
-## ![Soft Computation Project](https://github.com/aboelkassem/PSO)
+## ![PSO (Practicle swarm optimization) Project](https://github.com/aboelkassem/PSO)
 #### ![CS432 - Soft Computation](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS432%20-%20Soft%20Computation)
 
 
 <hr/>
 
-## ![Image Processing Project](https://github.com/aboelkassem/Filtrawy)
-#### ![CS391 - Software Engineering](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS352%20-%20Image%20Processing)
+## ![Filtrawy Project](https://github.com/aboelkassem/Filtrawy)
+#### ![CS352 - Image Processing](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/First%20Term/Computer%20Science%20Department/CS352%20-%20Image%20Processing)
+
+
+<hr/>
+
+## ![Network Scanner Project](https://github.com/aboelkassem/Network-Scanner)
+#### ![IT351 - Computer Networks](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Computer%20Science%20Department/IT351%20-%20Computer%20Networks)
+
+<hr/>
+
+## ![SJF CUP Scheduling Algorithm](https://github.com/gemydev/SJF)
+#### ![CS322 - Operating Systems](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Computer%20Science%20Department/CS322%20-%20Operating%20Systems)
+
+<hr/>
+
+## ![Training NN with MNIST and Keras](https://github.com/aboelkassem/CollegeLabs/tree/master/mnist-keras)
+#### ![CS331 - Neural Networks](https://github.com/aboelkassem/CollegeMaterials/tree/master/Third%20Level/Second%20Term/Computer%20Science%20Department/CS331%20-%20Neural%20Networks)
