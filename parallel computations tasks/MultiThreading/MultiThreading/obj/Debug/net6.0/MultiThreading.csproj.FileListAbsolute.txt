@@ -1,0 +1,15 @@
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.exe
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.deps.json
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.runtimeconfig.json
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.dll
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\bin\Debug\net6.0\ref\MultiThreading.dll
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\bin\Debug\net6.0\MultiThreading.pdb
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.AssemblyReference.cache
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.GeneratedMSBuildEditorConfig.editorconfig
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfoInputs.cache
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.AssemblyInfo.cs
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.csproj.CoreCompileInputs.cache
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.dll
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\ref\MultiThreading.dll
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.pdb
+E:\programming\Projects\GP\github\College\parallel-task\MultiThreading\MultiThreading\obj\Debug\net6.0\MultiThreading.genruntimeconfig.cache
