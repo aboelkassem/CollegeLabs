@@ -1,0 +1,2 @@
+PyBluez-win10==0.22
+PyOBEX==0.29
