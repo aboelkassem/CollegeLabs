@@ -1,5 +1,5 @@
 # CollegeLabs
-including my laps that i had studied at college for some courses containing PDF or The Desgin ,applications on computer science concepts
+This repository serves as a collection of labs that I completed during my college studies. These labs cover various computer science concepts and include both design/application files and documents for different courses.
 
 Project Name | Course Name  | Included 
 --- | --- | ---
