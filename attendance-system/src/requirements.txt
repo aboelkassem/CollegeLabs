@@ -13,7 +13,7 @@ cycler==0.10.0
 debugpy==1.5.0
 decorator==5.1.0
 entrypoints==0.3
-Flask==2.0.2
+Flask==2.3.2
 Flask-Migrate==3.1.0
 Flask-SQLAlchemy==2.5.1
 flatbuffers==1.12
