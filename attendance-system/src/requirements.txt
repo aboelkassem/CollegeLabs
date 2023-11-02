@@ -63,7 +63,7 @@ python-dateutil==2.8.2
 python-dotenv==0.19.2
 pywin32==302
 pyzmq==22.3.0
-requests==2.26.0
+requests==2.31.0
 requests-oauthlib==1.3.0
 rsa==4.7.2
 six==1.15.0
